@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.Map;
 import java.util.HashMap;
-public class many {
+public class money {
     public static void main(String[] args) {
         // PaizaのBランク問題　B:157　節約魂のコード
         Scanner sc = new Scanner(System.in);
@@ -39,4 +39,5 @@ public class many {
         }
         System.out.println(shop.size());
     }
+
 }
